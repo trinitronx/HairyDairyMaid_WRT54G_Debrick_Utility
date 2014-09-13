@@ -25,7 +25,7 @@ Many forks and modifications are available for this utility including but not li
  - [bpjtag][8] - HairyDairyMaid's debrick tool ported to use Bus Pirate OpenOCD mode
  - [Various JTAG Software][9] - Modem-Help.org's listing of JTAG Tools (Please consider making a donation to help support their community)
  - [tjtag-arduino][10] - Fork of tjtag with Arduino support! Use the arduino as a JTAG adaptor with Tjtag.
-
+ - [tjtag-pi][11] - Fork of tjtag with Raspberry Pi support! 
 
 If you have found a fork that you want to put on this list, feel free to submit a Pull Request to have it added to the README.
 
@@ -51,3 +51,4 @@ The license text has been also included in the file `LICENSE` in this repo.
 [8]: https://github.com/notch/bpjtag
 [9]: http://download.modem-help.co.uk/utilities/JTAG/Software/
 [10]: https://github.com/trinitronx/tjtag-arduino
+[11]: https://github.com/oxplot/tjtag-pi
