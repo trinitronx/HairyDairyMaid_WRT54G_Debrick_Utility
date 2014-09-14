@@ -50,5 +50,5 @@ The license text has been also included in the file `LICENSE` in this repo.
 [7]: http://www.tiaowiki.com/w/Debrick_Routers_Using_JTAG_Cable#Common_Firmware_Environment_.28CFE.29
 [8]: https://github.com/notch/bpjtag
 [9]: http://download.modem-help.co.uk/utilities/JTAG/Software/
-[10]: https://github.com/trinitronx/tjtag-arduino
+[10]: https://github.com/zoobab/tjtag-arduino
 [11]: https://github.com/oxplot/tjtag-pi
