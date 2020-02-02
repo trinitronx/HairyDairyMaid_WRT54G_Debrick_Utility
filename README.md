@@ -10,6 +10,7 @@ This software was found on the [download.modem-help.co.uk][1] website, along wit
 I have made this source code freely available according to the terms of the GPLv2 
 for purposes of gifting it back to the community, and to spur the sharing of further improvements and 
 forks of this great software that has brought so many routers back to life :smile_cat:.
+Given that it's a significant piece of Open Source software enabling JTAG recovery of so many routers, it should be included in the [GitHub Arctic Code Archive][12].
 
 Forks & Modifications
 =====================
@@ -52,3 +53,4 @@ The license text has been also included in the file `LICENSE` in this repo.
 [9]: http://download.modem-help.co.uk/utilities/JTAG/Software/
 [10]: https://github.com/zoobab/tjtag-arduino
 [11]: https://github.com/oxplot/tjtag-pi
+[12]: https://archiveprogram.github.com/
