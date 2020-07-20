@@ -36,9 +36,9 @@ License
 This software is the original work of "HairyDairyMaid (a.k.a. Lightbulb)".  The original source code for `wrt54g.h` and `wrt54g.c`
 contain the [GPLv2][2] license notice, and are:
 
-Copyright (c) 2004 HairyDairyMaid (a.k.a. Lightbulb)
+Copyright © 2004 HairyDairyMaid (a.k.a. Lightbulb)
 
-[Copyleft][3] &nbsp;&nbsp; 🄯 &nbsp;2004 HairyDairyMaid (a.k.a. Lightbulb)
+[Copyleft][3] 🄯 2004 HairyDairyMaid (a.k.a. Lightbulb)
 
 The license text has been also included in the file `LICENSE` in this repo.
 
