@@ -38,7 +38,7 @@ contain the [GPLv2][2] license notice, and are:
 
 Copyright (c) 2004 HairyDairyMaid (a.k.a. Lightbulb)
 
-[Copyleft][3] &nbsp;&nbsp; ᵓ ⃝  &nbsp;2004 HairyDairyMaid (a.k.a. Lightbulb)
+[Copyleft][3] &nbsp;&nbsp; 🄯 &nbsp;2004 HairyDairyMaid (a.k.a. Lightbulb)
 
 The license text has been also included in the file `LICENSE` in this repo.
 
